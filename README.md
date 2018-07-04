@@ -11,3 +11,4 @@
    1. passwd macbookbackup
 1. hostnamectl set-hostname minion
 1. yum install rsync
+1. yum install ansible ansible-doc
